@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NEPAWEB/build/web/WEB-INF/lib/NEPA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NEPAWEB/build/web/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
